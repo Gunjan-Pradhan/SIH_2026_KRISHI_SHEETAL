@@ -45,4 +45,4 @@ Farmer / Market
 ```
 
 ## Architecture
-
+![Alt text] https://github.com/Gunjan-Pradhan/SIH_2026_KRISHI_SHEETAL/blob/26b7ec913f0329cda6df7b41fa4220f0038bbae1/image.png
