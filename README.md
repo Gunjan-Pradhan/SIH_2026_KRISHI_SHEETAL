@@ -41,3 +41,8 @@ Real-Time Monitoring & Alerts
 Safe Delivery & Handover
         ↓
 Farmer / Market
+
+```
+
+## Architecture
+
